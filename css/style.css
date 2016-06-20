@@ -1,0 +1,38 @@
+body{
+	background-color:black;
+
+}
+a{
+	color:red;
+	font-size: 80px
+	
+
+}
+
+h1{
+	color:green;
+	font-size: 40px;
+}
+p{
+	color:orange;
+	font-size:200px;
+}
+h2{
+	color:white;
+	font-size: 75px;
+
+}
+
+#circle{
+border-radius: 100px;
+background-color:#ffd700;
+}
+div{
+height:50px;
+width: 50px;
+color:blue;
+background-color:white;
+width: 100px;
+height:15px;
+margin:120px
+}
